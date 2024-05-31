@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naryeen&label=Profile%20views&color=0e75b6&style=flat" alt="naryeen" /> </p>
 
-- 🔭 I’m currently working on **EBird-Bhutan**
+- 🔭 I’m currently  **Employed**
 
 - 🌱 I’m currently learning **Database, Networking and Cyber Security**
 
