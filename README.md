@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Database, Networking and Cyber Security**
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/naryeen97](linkedin.com/in/naryeen97)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/naryeen97](linkedin.com/in/naryeen97)
 
 - 💬 Ask me about **App Development, Networking, AWS,**
 
