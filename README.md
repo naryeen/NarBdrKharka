@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nar Bdr Kharka</h1>
-<h3 align="center">A passionate frontend developer, Software developer from Bhutan</h3>
+<h3 align="center">A passionate Backend developer, Software developer from Bhutan</h3>
 
 <img align="right" alt="animatedcoding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently  **Employed**
 
-- 🌱 I’m currently learning **Database, Networking and Cyber Security**
+- 🌱 I am Good at  **Database, Networking and Cyber Security,Security Auditing**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/naryeen97](linkedin.com/in/naryeen97)
 
-- 💬 Ask me about **App Development, Networking, AWS,**
+- 💬 Ask me about **App Development, Networking, AWS,backend development**
 
 - 📫 How to reach me **narbdr81@gmail.com**
 
